@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - Ahmed Makram Portfolio</title>
+
+    <!-- Include Site CSS -->
+    <link rel="stylesheet" href="~/assets/css/site.css">
+
+    <!-- Meta Data for SEO -->
+    <meta name="description" content="Ahmed Makram's personal portfolio, showcasing skills, projects, and contact information.">
+    <meta name="author" content="Ahmed Makram">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="/">Ahmed Makram</a>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="/Home/About" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="/Home/Resume" class="nav-link">Resume</a></li>
+                    <li class="nav-item"><a href="/Home/Projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="/Home/Contact" class="nav-link">Contact</a></li>
+                </ul>
+
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main role="main" class="container">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Ahmed Makram Portfolio</p>
+    </footer>
+
+    <!-- Include Site JavaScript -->
+    <script src="~/assets/js/site.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

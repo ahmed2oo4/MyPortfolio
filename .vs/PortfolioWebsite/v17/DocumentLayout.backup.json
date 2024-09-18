@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\wwwroot\\assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:wwwroot\\assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\wwwroot\\assets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:wwwroot\\assets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|c:\\users\\ahmed makram\\source\\repos\\portfoliowebsite\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B0F54F-DB23-41AE-AAE4-0F3646C743F3}|PortfolioWebsite.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Resume.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Resume.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Resume.cshtml",
+              "RelativeToolTip": "Views\\Home\\Resume.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T21:43:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\wwwroot\\assets\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\site.js",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\wwwroot\\assets\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T21:09:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\wwwroot\\assets\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\wwwroot\\assets\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T21:04:00.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:49:42.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:48:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:47:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Skills.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Skills.cshtml",
+              "RelativeToolTip": "Views\\Home\\Skills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:47:34.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:46:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:46:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:45:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:45:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:44:53.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Ahmed Makram\\source\\repos\\PortfolioWebsite\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:44:25.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

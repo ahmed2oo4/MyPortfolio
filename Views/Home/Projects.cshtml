@@ -1,0 +1,14 @@
+﻿@model IEnumerable<PortfolioWebsite.Models.Project>
+@{
+    ViewData["Title"] = "Projects";
+}
+
+<h2>Projects</h2>
+@foreach (var project in Model)
+{
+    <div>
+        <h3>@project.Title</h3>
+        <p>@project.Description</p>
+        <p><strong>Technologies:</strong> @project.Technologies</p>
+    </div>
+}
